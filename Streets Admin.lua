@@ -324,6 +324,7 @@ local BlacklistTable = {
 	[2040633702] = true; -- strykefire's alt
 	[1977361802] = true; -- furry
 	[1717939733] = true; -- trolled - Cy
+	[126487967] = true; -- just... what the fuck are you doing? https://cdn.discordapp.com/attachments/797334153598599181/797599847964213288/Roblox_2021-01-08_11-07-59_Trim.mp4
 	
 }
 
