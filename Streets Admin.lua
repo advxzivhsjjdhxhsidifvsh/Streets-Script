@@ -306,11 +306,6 @@ local BlacklistTable = {
 	[878779033] = true; -- retard who hit me
 	[1052869632] = true; -- Generally annoying and fan boys tagged users and claims he can script when he can't (skid).
 	[481265818] = true; -- said he would dox me but wouldn't
-	[362925188] = true; --[[
-		retard moment https://cdn.discordapp.com/attachments/726179909906464870/734190528828145665/image0.png
-		I add him: https://cdn.discordapp.com/attachments/726179909906464870/734191062435758201/image0.png
-		gets mad he got exposed: https://cdn.discordapp.com/attachments/726179909906464870/734191218400952381/image0.png
-	]]
 	[338649839] = true; -- literally a pedophile and a skid
 	[54133607] = true; -- Claims to hate me yet uses my script lol?
 	[347481927] = true; -- XXXtentacion
