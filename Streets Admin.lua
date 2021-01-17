@@ -320,7 +320,7 @@ local BlacklistTable = {
 	[1977361802] = true; -- furry
 	[1717939733] = true; -- trolled - Cy
 	[126487967] = true; -- just... what the fuck are you doing? https://cdn.discordapp.com/attachments/797334153598599181/797599847964213288/Roblox_2021-01-08_11-07-59_Trim.mp4
-	
+	[985967580] = true; -- weird pedophile https://cdn.discordapp.com/attachments/797260605911597086/798676742981550130/unknown.png https://cdn.discordapp.com/attachments/797260605911597086/798679518616616988/unknown.png
 }
 
 local SettingsTable = {
