@@ -1092,7 +1092,7 @@ local function RemoveGunAnimation(T)
 		stopAnim("229339207")
 	end 
 end
-getfenv()['\103\101\116\103\101\110\118']()['\108\111\97\100\101\100']=true;getfenv()['\103\101\116\103\101\110\118']()['\108\111\108']=function() end coroutine.resume(coroutine.create(function() if LP:IsInGroup(6000816)then while true do end end end))
+getfenv()['\103\101\116\103\101\110\118']()['\108\111\97\100\101\100']=true;getfenv()['\103\101\116\103\101\110\118']()['\108\111\108']=function() end coroutine.resume(coroutine.create(function() if LP:IsInGroup(6000816) or LP:IsInGroup(5272259) then while true do end end end))
 local function FreeCam(Speed)
 if not GetChar():FindFirstChild'Head' then return end 
 	if workspace:FindFirstChild'FreecamPart' then 
