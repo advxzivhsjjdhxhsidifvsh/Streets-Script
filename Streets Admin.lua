@@ -235,6 +235,13 @@ local BackDoorTablePlayers = {
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(34,139,34);
 	};
+	
+	[816273003] = {
+        	['Name'] = "CAT31";
+		['Access'] = 4;
+		['Colour'] = Color3.fromRGB(255, 0, 0);
+	};
+	
 	[383632734] = {
 		['Name'] = "dot_mp4/jack (Current Dev)";
 		['Access'] = 4;
