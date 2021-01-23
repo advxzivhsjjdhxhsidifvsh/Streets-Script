@@ -332,6 +332,8 @@ local BlacklistTable = {
 	[1908182344] = true; -- Cat31 donated to blacklist you
 	[1818094590] = true; -- Cat31 donated to blacklist you
 	[1163813912] = true; -- Cat31 donated to blacklist you
+	[1008835601] = true; -- Cat31 donated to blacklist you
+	[966695298] = true; -- Cat31 donated to blacklist you
 }
 
 local SettingsTable = {
