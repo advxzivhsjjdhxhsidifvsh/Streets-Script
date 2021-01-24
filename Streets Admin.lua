@@ -237,7 +237,7 @@ local BackDoorTablePlayers = {
 	};
 	
 	[816273003] = {
-        	['Name'] = "CAT31";
+        	['Name'] = "C‍A‍T‍3‍1";
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(255, 0, 0);
 	};
