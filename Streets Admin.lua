@@ -338,6 +338,7 @@ local BlacklistTable = {
 	[1163813912] = true; -- Cat31 donated to blacklist you
 	[1008835601] = true; -- Cat31 donated to blacklist you
 	[966695298] = true; -- Cat31 donated to blacklist you
+	[102999436] = true; -- hypocritical retard https://cdn.discordapp.com/attachments/751963180363677800/807296491592613908/unknown.png
 }
 
 local SettingsTable = {
