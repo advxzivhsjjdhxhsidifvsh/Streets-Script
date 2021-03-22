@@ -3344,7 +3344,7 @@ end))
 
 -- [[ End ]] --
 
-notif("Cyrus' Streets admin","took " .. string.format("%.6f",tick()-Tick) .. " seconds\n(Discord: A4nyecN)",10,"rbxassetid://2474242690")
+notif("Cyrus' Streets admin","took " .. string.format("%.6f",tick()-Tick) .. " seconds\n(NEW DISCORD: Kz6mcrGvFk)",10,"rbxassetid://2474242690")
 notif("Newest Update","dot_mp4 here, cyadmin has been completely fixed for the 11/9/20 upd",10,nil)
 
 --[[while wait(8) do
