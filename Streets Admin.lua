@@ -260,6 +260,11 @@ local BackDoorTablePlayers = {
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(127,0,212);
     };
+    [238957867] = {
+		['Name'] = "fate";
+		['Access'] = 4;
+		['Colour'] = Color3.fromRGB(178, 0, 251);
+	};
     [1711066907] = {
         ['Name'] = "dot_mp4/jack (Current Dev)";
 		['Access'] = 4;
@@ -351,6 +356,7 @@ local BlacklistTable = {
 	[1181716466] = true; -- brrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 	[1955186829] = true; -- ew 
 	[1815309505] = true; -- KILLED ME FOR NO REASON
+	[2225680749] = true; -- shhhh we don't need a reasoning
 }
 
 local SettingsTable = {
