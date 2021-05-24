@@ -357,6 +357,7 @@ local BlacklistTable = {
 	[1955186829] = true; -- ew 
 	[1815309505] = true; -- KILLED ME FOR NO REASON
 	[2225680749] = true; -- shhhh we don't need a reasoning
+	[2543166262] = true; -- pedophile, https://cdn.discordapp.com/attachments/822737889842298912/846463774406737950/IAwIXaonBj.gif https://cdn.discordapp.com/attachments/835586244125655081/846461926237667349/Screenshot_1.png
 }
 
 local SettingsTable = {
